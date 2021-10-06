@@ -4,7 +4,7 @@
 
 >I have been a dog trainer for quite some time now, and since I got a new dog recently, I had an idea of creating an application in which I could share my knowladge of training 
 >dogs. This app will let you have an account, and then search a certain dog breed to inform yourself before getting a specific dog breed. You can go look at exercises for 
->beginners with a puppy, more advanced exercises with you dog, and all kind of fun stuff like sharing your pictures and sharing your . 
+>beginners with a puppy, more advanced exercises with you dog, and all kind of fun stuff like sharing your pictures and sharing your progress. 
 
 
 ### Requirements ###
